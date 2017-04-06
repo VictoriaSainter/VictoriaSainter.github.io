@@ -1,0 +1,36 @@
+.evenRow{
+  /*background-color: rgba(81, 160, 191, 0.56);*/
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: 1px solid lightgrey;
+}
+
+.oddRow{
+  /*background-color: rgba(163, 206, 96, 0.26);*/
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-top: 1px solid lightgrey;
+}
+
+.bottomRow{
+  border-bottom: 1px solid lightgrey;
+}
+
+
+#summary{
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+#debt{
+  text-align: center;
+}
+
+#breakdown{
+  padding-bottom: 20px;
+}
+
+
+#payment{
+  text-align: center;
+}
